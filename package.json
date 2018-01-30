@@ -1,0 +1,25 @@
+{
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "rpc-fibonacci",
+  "version": "1.0.0",
+  "main": "server.js",
+  "keywords": [],
+  "author": "Eduardo Junior",
+  "license": "ISC",
+  "description": "Practice for tests and studying about RabbitMQ queues and workers",
+  "dependencies": {
+    "amqp": "^0.2.6",
+    "amqplib": "^0.5.2",
+    "uuid": "^3.2.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edunjr/pratica-com-rabbitmq.git"
+  },
+  "bugs": {
+    "url": "https://github.com/edunjr/pratica-com-rabbitmq/issues"
+  },
+  "homepage": "https://github.com/edunjr/pratica-com-rabbitmq#readme"
+}
